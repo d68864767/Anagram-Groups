@@ -1,0 +1,20 @@
+{
+  "name": "anagram-groups",
+  "version": "1.0.0",
+  "description": "A utility to find groups of anagrams in a list of words.",
+  "main": "anagramGroups.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "anagram",
+    "string",
+    "group",
+    "utility"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
